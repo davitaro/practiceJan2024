@@ -1,0 +1,16 @@
+/* my 'first' css*/
+body {
+  background-color: aqua;
+  color: blueviolet;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 5rem;
+}
+
+.bigbold {
+  font-size: 3rem;
+  text-emphasis: bold;
+}
